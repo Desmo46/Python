@@ -1,6 +1,4 @@
 print("Hello World")
-name = "Peter"
+name = "foo"
 
 print("What's up " + name)
-
-import pandas as pn
