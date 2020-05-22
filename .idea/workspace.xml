@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="accfc422-880f-49ed-abca-e11586ee39b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cEpnUhzDzze6YXQ8p12o8tUR9Q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="accfc422-880f-49ed-abca-e11586ee39b0" name="Default Changelist" comment="" />
+      <created>1590103773313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590103773313</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Sync">
+      <created>1590105025379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590105025379</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added some array">
+      <created>1590105311847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590105311847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sync" />
+    <MESSAGE value="Added some array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some array" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="118" key="CommitChangelistDialog2" timestamp="1590105311638">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state x="465" y="118" key="CommitChangelistDialog2/0.23.1680.1002@0.23.1680.1002" timestamp="1590105311638" />
+    <state width="1379" height="259" key="GridCell.Tab.0.bottom" timestamp="1590105373108">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state width="1379" height="259" key="GridCell.Tab.0.bottom/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373108" />
+    <state width="1379" height="259" key="GridCell.Tab.0.center" timestamp="1590105373107">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state width="1379" height="259" key="GridCell.Tab.0.center/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373107" />
+    <state width="1379" height="259" key="GridCell.Tab.0.left" timestamp="1590105373107">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state width="1379" height="259" key="GridCell.Tab.0.left/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373107" />
+    <state width="1379" height="259" key="GridCell.Tab.0.right" timestamp="1590105373108">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state width="1379" height="259" key="GridCell.Tab.0.right/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373108" />
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2" timestamp="1590105325025">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state x="440" y="264" key="Vcs.Push.Dialog.v2/0.23.1680.1002@0.23.1680.1002" timestamp="1590105325025" />
+    <state x="628" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590104079570">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state x="628" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1002@0.23.1680.1002" timestamp="1590104079570" />
+  </component>
+</project>
