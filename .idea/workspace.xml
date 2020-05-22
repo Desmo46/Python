@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="accfc422-880f-49ed-abca-e11586ee39b0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,8 +27,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1cEpnUhzDzze6YXQ8p12o8tUR9Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,21 +40,28 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="/usr/local/bin/python3.8">
+        <option name="mySdkHome" value="/usr/local/bin/python3.8" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="HelloWorld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -75,42 +102,76 @@
       <option name="project" value="LOCAL" />
       <updated>1590105311847</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update gitignore">
+      <created>1590105430942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590105430942</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update gitignore">
+      <created>1590105682873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590105682873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Sync" />
     <MESSAGE value="Added some array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some array" />
+    <MESSAGE value="Update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="118" key="CommitChangelistDialog2" timestamp="1590105311638">
+    <state x="526" y="121" key="#HelloWorld" timestamp="1590105905755">
       <screen x="0" y="23" width="1680" height="1002" />
     </state>
-    <state x="465" y="118" key="CommitChangelistDialog2/0.23.1680.1002@0.23.1680.1002" timestamp="1590105311638" />
-    <state width="1379" height="259" key="GridCell.Tab.0.bottom" timestamp="1590105373108">
+    <state x="526" y="121" key="#HelloWorld/0.23.1680.1002@0.23.1680.1002" timestamp="1590105905755" />
+    <state x="465" y="118" key="CommitChangelistDialog2" timestamp="1590105682684">
       <screen x="0" y="23" width="1680" height="1002" />
     </state>
-    <state width="1379" height="259" key="GridCell.Tab.0.bottom/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373108" />
-    <state width="1379" height="259" key="GridCell.Tab.0.center" timestamp="1590105373107">
+    <state x="465" y="118" key="CommitChangelistDialog2/0.23.1680.1002@0.23.1680.1002" timestamp="1590105682684" />
+    <state width="1379" height="259" key="GridCell.Tab.0.bottom" timestamp="1590105918490">
       <screen x="0" y="23" width="1680" height="1002" />
     </state>
-    <state width="1379" height="259" key="GridCell.Tab.0.center/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373107" />
-    <state width="1379" height="259" key="GridCell.Tab.0.left" timestamp="1590105373107">
+    <state width="1379" height="259" key="GridCell.Tab.0.bottom/0.23.1680.1002@0.23.1680.1002" timestamp="1590105918490" />
+    <state width="1379" height="259" key="GridCell.Tab.0.center" timestamp="1590105918490">
       <screen x="0" y="23" width="1680" height="1002" />
     </state>
-    <state width="1379" height="259" key="GridCell.Tab.0.left/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373107" />
-    <state width="1379" height="259" key="GridCell.Tab.0.right" timestamp="1590105373108">
+    <state width="1379" height="259" key="GridCell.Tab.0.center/0.23.1680.1002@0.23.1680.1002" timestamp="1590105918490" />
+    <state width="1379" height="259" key="GridCell.Tab.0.left" timestamp="1590105918489">
       <screen x="0" y="23" width="1680" height="1002" />
     </state>
-    <state width="1379" height="259" key="GridCell.Tab.0.right/0.23.1680.1002@0.23.1680.1002" timestamp="1590105373108" />
+    <state width="1379" height="259" key="GridCell.Tab.0.left/0.23.1680.1002@0.23.1680.1002" timestamp="1590105918489" />
+    <state width="1379" height="259" key="GridCell.Tab.0.right" timestamp="1590105918490">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state width="1379" height="259" key="GridCell.Tab.0.right/0.23.1680.1002@0.23.1680.1002" timestamp="1590105918490" />
+    <state x="341" y="163" key="SettingsEditor" timestamp="1590105890680">
+      <screen x="0" y="23" width="1680" height="1002" />
+    </state>
+    <state x="341" y="163" key="SettingsEditor/0.23.1680.1002@0.23.1680.1002" timestamp="1590105890680" />
     <state x="440" y="264" key="Vcs.Push.Dialog.v2" timestamp="1590105325025">
       <screen x="0" y="23" width="1680" height="1002" />
     </state>
     <state x="440" y="264" key="Vcs.Push.Dialog.v2/0.23.1680.1002@0.23.1680.1002" timestamp="1590105325025" />
-    <state x="628" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590104079570">
+    <state x="628" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590105672215">
       <screen x="0" y="23" width="1680" height="1002" />
     </state>
-    <state x="628" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1002@0.23.1680.1002" timestamp="1590104079570" />
+    <state x="628" y="445" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1002@0.23.1680.1002" timestamp="1590105672215" />
   </component>
 </project>
