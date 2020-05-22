@@ -4,4 +4,4 @@ print(x * y)
 
 print (x % 5)
 
-print(len("Hello"))
+print(len("Hello g"))
