@@ -5,3 +5,5 @@ print(x * y)
 print (x % 5)
 
 print(len("Hello g"))
+
+import pandas
